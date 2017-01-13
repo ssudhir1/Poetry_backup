@@ -1,4 +1,4 @@
-"The old crow is slow"
+"The old crow is getting slow"
 "The young crow is not"
 "Of what the young crow does not know."
 #about crows, by john ciardi
